@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305210952718",
+    "project_id": "fbpam-fix",
+    "storage_bucket": "fbpam-fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305210952718:android:17212539ba546b0a46405f",
+        "android_client_info": {
+          "package_name": "com.pam.pamfirebasefix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eGSHyII0GP8k3OUAu8U_vlioPHp3k88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
